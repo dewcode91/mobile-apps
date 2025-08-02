@@ -39,5 +39,7 @@
 - [Android Official Security Docs](https://source.android.com/security)
 - [Android Source Code](https://cs.android.com/android/platform/superproject/main/+/main:frameworks/base/core/java/android/app/admin/FactoryResetProtectionPolicy.java;l=58?q=FactoryResetProtectionPolicy&ss=android%2Fplatform%2Fsuperproject%2Fmain)
 - [Android API](https://apilevels.com/)
+- [FRP Bypass Blog](https://bypassfrpfiles.com/)
+- [FRP Tools](https://bypassfrpfiles.com/2019/02/download-frp-tools-apk/)
 
 If you have a specific device or Android version in mind, I can provide more technical details on known vulnerabilities (for responsible research or patching purposes). Let me know if you want to know more about Android code relating to FRP!
