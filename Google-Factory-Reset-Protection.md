@@ -26,7 +26,6 @@
 #### Why does this happen?
 - **Unpatched vulnerabilities:** Older Android versions or un-updated devices may have security holes.
 - **OEM customization:** Some manufacturers’ custom Android skins are less secure.
-- **User error:** Device owners sometimes unknowingly disable security.
 
 #### How to Prevent FRP Bypass
 
